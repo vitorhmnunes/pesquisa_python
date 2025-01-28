@@ -1,5 +1,5 @@
 # Análise de Entrevistados
-<br>
+
 ## Funcionalidade do Script
 - O script analiza se há fumantes em um determinado grupo de pessoas 
 - Por meio de inputs, o script recebe dados das pessoas (Sexo, idade, se é fumante e escolaridade)
